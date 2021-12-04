@@ -1,3 +1,5 @@
+const { Selectors } = require('./selectorsEnum');
+
 const entitiesConfig = [
   {
     name: 'zombieTemplateMale',
