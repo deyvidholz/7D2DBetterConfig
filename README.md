@@ -54,3 +54,5 @@ There are a few steps to generate your own configuration.
 - Paste the files on the project folder: `src/default_config`
 - Use the command `npm run generate` or `node src/index`
 - Once the code ran, a folder named `generated_config` will be created. Copy and paste all the files inside this folder to your configuration directory(`Data/Config`)
+
+Tested in A19.4 and A19.6.
