@@ -1,4 +1,4 @@
 node_modules
 yarn-error.log
 src/default_config/**/*
-src/generated_config/**/*
+generated_config/**/*
