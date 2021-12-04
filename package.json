@@ -6,6 +6,9 @@
   "repository": "https://github.com/deyvidholz/7D2DBetterConfig",
   "author": "Deyvid Holz <deyvidholzt@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "generate": "node src/index"
+  },
   "dependencies": {
     "jsdom": "^19.0.0",
     "xml-formatter": "^2.5.1",
